@@ -1,0 +1,2 @@
+# gitcurso
+prueba con git
